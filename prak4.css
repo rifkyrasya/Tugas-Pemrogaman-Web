@@ -1,0 +1,44 @@
+
+header {
+    display: flex;
+    justify-content: space-between;
+    margin: 15px;
+}
+
+.profil {
+    width: 200px;
+    height: 250px;
+}
+
+.right {
+    text-align: right;
+}
+
+.info {
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
+
+footer {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+
+video {
+    width: 430px;
+    height: 450px;
+}
+
+.foto {
+    display: flex;
+}
+
+.car {
+    width: 230px;
+    height: 250px;
+}
+
+.pdf {
+    list-style-type: none;
+}
